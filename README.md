@@ -49,7 +49,7 @@ class Lavanya:
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🛰️ <a href="https://github.com/lavanyasaxena01/Chest-Xray-IEL-Framewok">Explainable AI for Chest X-Ray Diagnosis</a></h3>
+      <h3>🩻 <a href="https://github.com/lavanyasaxena01/Chest-Xray-IEL-Framewok">Explainable AI for Chest X-Ray Diagnosis</a></h3>
       <p>An Intrinsic Explainable Learning (IEL) framework for chest X-ray diagnosis that combines self-supervised feature learning, a Concept Bottleneck Model, prototype-based reasoning, and Grad-CAM visualizations to make predictions more interpretable.</p>
       <p><b>Reported experimental results:</b> 85.2% accuracy · 85.3% F1-score · 0.91 ROC-AUC</p>
       <img src="https://img.shields.io/badge/Medical_Imaging-0f766e?style=flat-square" alt="Medical Imaging">
