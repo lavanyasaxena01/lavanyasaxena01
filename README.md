@@ -135,6 +135,18 @@ Unsupervised learning on mall customer data to identify audience segments and su
 </td>
 <td width="50%" valign="top">
 
+### 💊 [MedSave AI](https://github.com/lavanyasaxena01/medsave.ai)
+
+An AI-powered healthcare application designed to make medical information more accessible and help users make informed healthcare decisions through intelligent, data-driven insights.
+
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-0F766E?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-312E81?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔬 More coming soon
 Currently exploring **explainable AI for medical image analysis**. Follow along to see it land.
 
