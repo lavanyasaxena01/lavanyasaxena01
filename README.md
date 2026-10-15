@@ -8,8 +8,6 @@
 
 <a href="https://github.com/lavanyasaxena01"><img src="https://img.shields.io/badge/GitHub-lavanyasaxena01-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/lavanya-saxena/"><img src="https://img.shields.io/badge/LinkedIn-Lavanya_Saxena-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=lavanyasaxena01&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
