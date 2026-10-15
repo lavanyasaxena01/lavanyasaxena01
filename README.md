@@ -59,6 +59,23 @@ Multimodal remote-sensing AI for satellite-image understanding: **visual questio
 </td>
 <td width="50%" valign="top">
 
+### 🛰️ [Explainable AI for Chest X-Ray Diagnosis](https://github.com/lavanyasaxena01/Chest-Xray-IEL-Framewok)
+An Intrinsic Explainable Learning (IEL) framework for chest X-ray
+diagnosis that combines self-supervised feature learning, a Concept
+Bottleneck Model, prototype-based reasoning, and Grad-CAM visualizations
+to make predictions more interpretable.
+
+**Focus**: Medical Imaging · Explainable AI · Self-Supervised Learning · PyTorch
+**Reported experimental results**: 85.2% accuracy · 85.3% F1-score · 0.91 ROC-AUC
+
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-0F766E?style=flat-square)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-312E81?style=flat-square)
+![Self-Supervised Learning](https://img.shields.io/badge/Self--Supervised_Learning-7C3AED?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+    
 ### 📈 [Retail Forecasting](https://github.com/lavanyasaxena01/Xylofy-AI-Project-3-4)
 Sales forecasting and insight extraction for retail data, turning historical trends into actionable business decisions.
 
