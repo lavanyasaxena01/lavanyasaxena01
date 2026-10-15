@@ -51,7 +51,7 @@ class Lavanya:
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ [SatQuery AI](https://github.com/lavanyasaxena01/satquery-ai)
+### 🛰️ [SatQuery AI](https://github.com/lavanyasaxena01/sat-query-ai)
 Multimodal remote-sensing AI for satellite-image understanding: **visual question answering, image captioning, change detection, and optical–SAR analysis**.
 
 ![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square) ![Multimodal](https://img.shields.io/badge/Multimodal-4C1D95?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -59,7 +59,7 @@ Multimodal remote-sensing AI for satellite-image understanding: **visual questio
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Xylofy AI: Retail Forecasting](https://github.com/lavanyasaxena01/Xylofy-AI-Project-3-4)
+### 📈 [Retail Forecasting](https://github.com/lavanyasaxena01/Xylofy-AI-Project-3-4)
 Sales forecasting and insight extraction for retail data, turning historical trends into actionable business decisions.
 
 ![Forecasting](https://img.shields.io/badge/Forecasting-312E81?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/ML-7C3AED?style=flat-square)
@@ -69,7 +69,7 @@ Sales forecasting and insight extraction for retail data, turning historical tre
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 [CareerSense AI](https://github.com/lavanyasaxena01)
+### 🧭 [CareerSense AI](https://github.com/lavanyasaxena01/CareerSenseAI)
 An AI-powered career guidance app that recommends potential career paths through data-driven analysis, delivered as an interactive web app.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/ML-7C3AED?style=flat-square)
@@ -77,7 +77,7 @@ An AI-powered career guidance app that recommends potential career paths through
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [Customer Segmentation: DecodeLab](https://github.com/lavanyasaxena01/DecodeLab-Project3)
+### 🧩 [Customer Segmentation](https://github.com/lavanyasaxena01/DecodeLab-Project3)
 Discovers customer groups and behavioural patterns through clustering and exploratory data analysis.
 
 ![Clustering](https://img.shields.io/badge/Clustering-312E81?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-7C3AED?style=flat-square) ![Customer Analytics](https://img.shields.io/badge/Customer_Analytics-4C1D95?style=flat-square)
