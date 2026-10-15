@@ -51,27 +51,50 @@ class Lavanya:
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ [SatQuery AI](https://github.com/lavanyasaxena01/sat-query-ai)
-Multimodal remote-sensing AI for satellite-image understanding: **visual question answering, image captioning, change detection, and optical–SAR analysis**.
-
-![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square) ![Multimodal](https://img.shields.io/badge/Multimodal-4C1D95?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🛰️ [Explainable AI for Chest X-Ray Diagnosis](https://github.com/lavanyasaxena01/Chest-Xray-IEL-Framewok)
 An Intrinsic Explainable Learning (IEL) framework for chest X-ray
 diagnosis that combines self-supervised feature learning, a Concept
 Bottleneck Model, prototype-based reasoning, and Grad-CAM visualizations
 to make predictions more interpretable.
 
-**Focus**: Medical Imaging · Explainable AI · Self-Supervised Learning · PyTorch
 **Reported experimental results**: 85.2% accuracy · 85.3% F1-score · 0.91 ROC-AUC
 
 ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-0F766E?style=flat-square)
 ![Explainable AI](https://img.shields.io/badge/Explainable_AI-312E81?style=flat-square)
 ![Self-Supervised Learning](https://img.shields.io/badge/Self--Supervised_Learning-7C3AED?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ [ANOVA-AI — Earth Observation Intelligence](https://github.com/lavanyasaxena01/ANOVA-AI)
+
+An AI-powered Earth observation system developed for satellite imagery analysis, designed to identify meaningful environmental and geographical changes using intelligent image-processing models.
+
+![Earth Observation](https://img.shields.io/badge/Earth_Observation-0F766E?style=flat-square)
+![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-4C1D95?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ [ANOVA-AI — Earth Observation Intelligence](https://github.com/lavanyasaxena01/ANOVA-AI)
+
+An AI-powered Earth observation system developed for satellite imagery analysis, designed to identify meaningful environmental and geographical changes using intelligent image-processing models.
+
+![Earth Observation](https://img.shields.io/badge/Earth_Observation-0F766E?style=flat-square)
+![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-4C1D95?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+    
+### 🛰️ [SatQuery AI](https://github.com/lavanyasaxena01/sat-query-ai)
+Multimodal remote-sensing AI for satellite-image understanding: **visual question answering, image captioning, change detection, and optical–SAR analysis**.
+
+![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square) ![Multimodal](https://img.shields.io/badge/Multimodal-4C1D95?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
