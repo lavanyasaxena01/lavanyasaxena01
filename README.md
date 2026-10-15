@@ -44,120 +44,84 @@ class Lavanya:
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ [Explainable AI for Chest X-Ray Diagnosis](https://github.com/lavanyasaxena01/Chest-Xray-IEL-Framewok)
-An Intrinsic Explainable Learning (IEL) framework for chest X-ray
-diagnosis that combines self-supervised feature learning, a Concept
-Bottleneck Model, prototype-based reasoning, and Grad-CAM visualizations
-to make predictions more interpretable.
-
-**Reported experimental results**: 85.2% accuracy · 85.3% F1-score · 0.91 ROC-AUC
-
-![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-0F766E?style=flat-square)
-![Explainable AI](https://img.shields.io/badge/Explainable_AI-312E81?style=flat-square)
-![Self-Supervised Learning](https://img.shields.io/badge/Self--Supervised_Learning-7C3AED?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ [ANOVA-AI — Earth Observation Intelligence](https://github.com/lavanyasaxena01/ANOVA-AI)
-
-An AI-powered Earth observation system developed for satellite imagery analysis, designed to identify meaningful environmental and geographical changes using intelligent image-processing models.
-
-![Earth Observation](https://img.shields.io/badge/Earth_Observation-0F766E?style=flat-square)
-![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4C1D95?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ [ANOVA-AI — Earth Observation Intelligence](https://github.com/lavanyasaxena01/ANOVA-AI)
-
-An AI-powered Earth observation system developed for satellite imagery analysis, designed to identify meaningful environmental and geographical changes using intelligent image-processing models.
-
-![Earth Observation](https://img.shields.io/badge/Earth_Observation-0F766E?style=flat-square)
-![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4C1D95?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-    
-### 🛰️ [SatQuery AI](https://github.com/lavanyasaxena01/sat-query-ai)
-Multimodal remote-sensing AI for satellite-image understanding: **visual question answering, image captioning, change detection, and optical–SAR analysis**.
-
-![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-312E81?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square) ![Multimodal](https://img.shields.io/badge/Multimodal-4C1D95?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-    
-### 📈 [Retail Forecasting](https://github.com/lavanyasaxena01/Xylofy-AI-Project-3-4)
-Sales forecasting and insight extraction for retail data, turning historical trends into actionable business decisions.
-
-![Forecasting](https://img.shields.io/badge/Forecasting-312E81?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/ML-7C3AED?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 [CareerSense AI](https://github.com/lavanyasaxena01/CareerSenseAI)
-An AI-powered career guidance app that recommends potential career paths through data-driven analysis, delivered as an interactive web app.
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/ML-7C3AED?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 [Customer Segmentation](https://github.com/lavanyasaxena01/DecodeLab-Project3)
-Discovers customer groups and behavioural patterns through clustering and exploratory data analysis.
-
-![Clustering](https://img.shields.io/badge/Clustering-312E81?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-7C3AED?style=flat-square) ![Customer Analytics](https://img.shields.io/badge/Customer_Analytics-4C1D95?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ [Mall Customer Segmentation](https://github.com/lavanyasaxena01/Mall-customer-segmentation)
-Unsupervised learning on mall customer data to identify audience segments and support targeted strategies.
-
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-312E81?style=flat-square) ![Visualization](https://img.shields.io/badge/Visualization-7C3AED?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 💊 [MedSave AI](https://github.com/lavanyasaxena01/medsave.ai)
-
-An AI-powered healthcare application designed to make medical information more accessible and help users make informed healthcare decisions through intelligent, data-driven insights.
-
-![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-0F766E?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-312E81?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 More coming soon
-Currently exploring **explainable AI for medical image analysis**. Follow along to see it land.
-
-[![Follow](https://img.shields.io/github/followers/lavanyasaxena01?label=Follow&style=social)](https://github.com/lavanyasaxena01)
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛰️ <a href="https://github.com/lavanyasaxena01/Chest-Xray-IEL-Framewok">Explainable AI for Chest X-Ray Diagnosis</a></h3>
+      <p>An Intrinsic Explainable Learning (IEL) framework for chest X-ray diagnosis that combines self-supervised feature learning, a Concept Bottleneck Model, prototype-based reasoning, and Grad-CAM visualizations to make predictions more interpretable.</p>
+      <p><b>Reported experimental results:</b> 85.2% accuracy · 85.3% F1-score · 0.91 ROC-AUC</p>
+      <img src="https://img.shields.io/badge/Medical_Imaging-0f766e?style=flat-square" alt="Medical Imaging">
+      <img src="https://img.shields.io/badge/Explainable_AI-312e81?style=flat-square" alt="Explainable AI">
+      <img src="https://img.shields.io/badge/Self--Supervised_Learning-7c3aed?style=flat-square" alt="Self-Supervised Learning">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛰️ <a href="https://github.com/lavanyasaxena01/ANOVA-AI">ANOVA-AI — Earth Observation Intelligence</a></h3>
+      <p>An AI-powered Earth observation system developed for satellite imagery analysis, designed to identify meaningful environmental and geographical changes using intelligent image-processing models.</p>
+      <img src="https://img.shields.io/badge/Earth_Observation-0f766e?style=flat-square" alt="Earth Observation">
+      <img src="https://img.shields.io/badge/Geospatial_AI-312e81?style=flat-square" alt="Geospatial AI">
+      <img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square" alt="Computer Vision">
+      <img src="https://img.shields.io/badge/Deep_Learning-4c1d95?style=flat-square" alt="Deep Learning">
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛰️ <a href="https://github.com/lavanyasaxena01/sat-query-ai">SatQuery AI</a></h3>
+      <p>Multimodal remote-sensing AI for satellite-image understanding: <b>visual question answering, image captioning, change detection, and optical–SAR analysis</b>.</p>
+      <img src="https://img.shields.io/badge/Geospatial_AI-312e81?style=flat-square" alt="Geospatial AI">
+      <img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square" alt="Computer Vision">
+      <img src="https://img.shields.io/badge/Multimodal-4c1d95?style=flat-square" alt="Multimodal">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📈 <a href="https://github.com/lavanyasaxena01/Sales-Forecasting-Demand-Intelligence-System">Retail Forecasting</a></h3>
+      <p>Sales forecasting and insight extraction for retail data, turning historical trends into actionable business decisions.</p>
+      <img src="https://img.shields.io/badge/Forecasting-312e81?style=flat-square" alt="Forecasting">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/ML-7c3aed?style=flat-square" alt="ML">
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧭 <a href="https://github.com/lavanyasaxena01/CareerSenseAI">CareerSense AI</a></h3>
+      <p>An AI-powered career guidance app that recommends potential career paths through data-driven analysis, delivered as an interactive web app.</p>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/ML-7c3aed?style=flat-square" alt="ML">
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧩 <a href="https://github.com/lavanyasaxena01/Customer-Segmentation">Customer Segmentation</a></h3>
+      <p>Discovers customer groups and behavioural patterns through clustering and exploratory data analysis.</p>
+      <img src="https://img.shields.io/badge/Clustering-312e81?style=flat-square" alt="Clustering">
+      <img src="https://img.shields.io/badge/EDA-7c3aed?style=flat-square" alt="EDA">
+      <img src="https://img.shields.io/badge/Customer_Analytics-4c1d95?style=flat-square" alt="Customer Analytics">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛍️ <a href="https://github.com/lavanyasaxena01/Mall-customer-segmentation">Mall Customer Segmentation</a></h3>
+      <p>Unsupervised learning on mall customer data to identify audience segments and support targeted strategies.</p>
+      <img src="https://img.shields.io/badge/Unsupervised_Learning-312e81?style=flat-square" alt="Unsupervised Learning">
+      <img src="https://img.shields.io/badge/Visualization-7c3aed?style=flat-square" alt="Visualization">
+    </td>
+    <td width="33%" valign="top">
+      <h3>💊 <a href="hhttps://github.com/lavanyasaxena01/medsave.ai">MedSave AI</a></h3>
+      <p>An AI-powered healthcare application designed to make medical information more accessible and help users make informed healthcare decisions through intelligent, data-driven insights.</p>
+      <img src="https://img.shields.io/badge/Healthcare_AI-0f766e?style=flat-square" alt="Healthcare AI">
+      <img src="https://img.shields.io/badge/Artificial_Intelligence-312e81?style=flat-square" alt="Artificial Intelligence">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔬 More coming soon</h3>
+      <p>Currently exploring <b>explainable AI for medical image analysis</b>. Follow along to see it land.</p>
+      <a href="https://github.com/YOUR_USERNAME?tab=followers">
+        <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="Follow">
+      </a>
+    </td>
+  </tr>
 </table>
-
 ---
-
 ## 🌱 What I'm Exploring
 
 - 🔍 Explainable and trustworthy AI
@@ -176,8 +140,6 @@ Currently exploring **explainable AI for medical image analysis**. Follow along 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyasaxena01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=lavanyasaxena01&theme=tokyonight&hide_border=true" alt="Contribution streak" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyasaxena01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
 </div>
 
